@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+}
+
+.card{
+    background-color: rgb(219, 219, 219);
+    width: max-content;
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+}
+.kep{
+    width:"300px";
+    height:"160px";
+}
+
+.neve{
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
+
+.date{}
+.time{}
+.kuldo{
+}
